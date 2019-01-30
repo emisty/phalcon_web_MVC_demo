@@ -2,7 +2,7 @@
 [![Author](https://img.shields.io/badge/author-@weibo-blue.svg?style=flat)](http://weibo.com/jzhbiao) 
 
 ##Overview
-一个对phalcon框架实现的例子，直接clone，业务逻辑在写在mvc上，并保存一些我代码，欢迎大家fock
+一个对phalcon框架实现的例子
 
 ##Feature
 
